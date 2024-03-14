@@ -106,11 +106,5 @@
 
 ## 서비스 아키텍처
 
-**배포 환경**
-
-![스크린샷 2023-10-05 오후 4 05 52](https://github.com/klloo/react-randps-client/assets/53117014/f20933c0-cea4-43d0-8307-d22f1e3d9ed7)
-
-**CI/CD Workflow**
-
-![스크린샷 2023-10-05 오후 4 05 56](https://github.com/klloo/react-randps-client/assets/53117014/97b70409-b182-4cb2-92ca-fd7c3b30adef)
+![](https://github.com/GPGT-Algorithm-Study/.github/assets/53117014/26fc4ae4-1dfe-4dff-9130-79cc84ddb59e)
 
